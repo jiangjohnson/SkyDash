@@ -1,0 +1,9 @@
+when we click on the Program Performance, then we can pass the ProgrammeTitleID
+when we click on the RatingPerformance Module, then we cannot pass the ProgrammTitleID, so we set it be -1
+ChannelGroupID / ChannelID,  PlatformID these three passed from the cell clicked on the Rating Performance
+when the cell clicked is on the "Total" column, then we pass the PlatformID=-1
+
+Linear = black
+On Demand = light purple
+Ticket = Orange
+Go = bright blue
